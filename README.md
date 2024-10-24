@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon Munda</h1>
 <h3 align="center">A passionate full stack developer from (Nairobi)Kenya</h3>
 
-- 🔭 I’m currently working on [navari_library_management](https://github.com/Bot-on-Tapwater/navari_library_management.git)
-
 - 🌱 I’m currently learning **Vue.js, React**
-
-- 👯 I’m looking to collaborate on [navari_library_management](https://github.com/Bot-on-Tapwater/navari_library_management.git)
-
-- 🤝 I’m looking for help with [navari_library_management](https://github.com/Bot-on-Tapwater/navari_library_management.git)
 
 - 👨‍💻 All of my projects are available at [www.brandonmunda.me](www.brandonmunda.me)
 
 - 📝 I regularly write articles on [https://brandonmunda.hashnode.dev/](https://brandonmunda.hashnode.dev/)
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, Golang, DevOps**
 
 - 📫 How to reach me **mundabrandon@outlook.com**
 
