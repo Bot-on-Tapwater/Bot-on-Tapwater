@@ -10,8 +10,7 @@ I build full-stack applications and enjoy working across the backend, cloud infr
 
 - 💬 Ask me about **Python, Django, Golang, DevOps**
 - 📬 [mundabrandon@outlook.com](mailto:mundabrandon@outlook.com)
-- 🌐 [brandonmunda.me](http://www.brandonmunda.me)
-- ✍️ [brandonmunda.hashnode.dev](https://brandonmunda.hashnode.dev/)
+- 🌐 [botontapwater.com](https://botontapwater.com)
 
 ---
 
